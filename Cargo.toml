@@ -2,5 +2,9 @@
 name = "xfailure"
 version = "0.1.0"
 authors = ["Frank Denis <github@pureftpd.org>"]
+description = "Additional helper macros for failure"
+license = "ISC"
+homepage = "https://github.com/jedisct1/rust-xfailure"
+repository = "https://github.com/jedisct1/rust-xfailure"
 
 [dependencies]
